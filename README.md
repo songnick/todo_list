@@ -1,6 +1,6 @@
 # todo_list
 
-A new Flutter application.
+A new Flutter application to implement a simple app: todo list.
 
 ## Getting Started
 
